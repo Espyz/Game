@@ -4,3 +4,8 @@
 Затем запускается игра. Убунту: (python3 main.py), Винда: (python main.py)
 
 ВАЖНО: Нажимать на значок глобуса в том порядке в каком запускали Игру иначе краш. Все кнопки рабочие
+
+
+Ссылка на скачивание .exe: 
+  server: https://disk.yandex.ru/d/Bo5SL2EKUU_HUw
+  main: https://disk.yandex.ru/d/aJ3V-pzgqFOA6g
